@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary and secondary colors for the text -->
+    <color name="primary_text_color">#2E7D32</color> <!-- Dark green -->
+    <color name="secondary_text_color">#757575</color> <!-- Grey -->
+
+    <!-- Background color for each card -->
+    <color name="card_background_color">#E8F5E9</color> <!-- Light green -->
+
+    <!-- Accent colors (optional) -->
+    <color name="accent_color">#43A047</color> <!-- Vibrant green -->
+</resources>
